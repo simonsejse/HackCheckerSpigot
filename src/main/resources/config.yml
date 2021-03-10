@@ -25,6 +25,8 @@ frozenMessage:
   - '§4§lBEMÆRK: §cHvis du logger ud, vil det betegnes som et forsøg på at fjerne dit hack, og vil tilsvarende få samme straf, som hvis du hackede.'
 
 
+#Whether the Staff should be prompted with a UI to ban the player automatically.
+autoBan: true
 
 
 

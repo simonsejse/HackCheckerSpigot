@@ -6,5 +6,6 @@ public class Configuration {
 
     public List<String> frozenMessage;
 
+    public boolean autoBan;
 
 }
