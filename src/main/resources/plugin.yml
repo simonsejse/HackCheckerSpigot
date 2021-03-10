@@ -1,0 +1,7 @@
+name: HackCore
+version: @version@
+main: com.simonsejse.freeze.core.FreezeCore
+api-version: 1.16
+authors: [simonsejse]
+description: A plugin for checking if players are using a modded client.
+website: simon-winther.dk

@@ -1,0 +1,31 @@
+
+#    ███████╗██████╗░███████╗███████╗███████╗███████╗
+#    ██╔════╝██╔══██╗██╔════╝██╔════╝╚════██║██╔════╝
+#    █████╗░░██████╔╝█████╗░░█████╗░░░░███╔═╝█████╗░░
+#    ██╔══╝░░██╔══██╗██╔══╝░░██╔══╝░░██╔══╝░░██╔══╝░░
+#    ██║░░░░░██║░░██║███████╗███████╗███████╗███████╗
+#    ╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝╚══════╝
+#
+#                    Author: simonsejse
+
+#This is the message the players will recieve when they have been frozen by staff.
+#{staff} is the player who froze them and can be placed where you want.
+frozenMessage:
+  - '§f████§c█§f████'
+  - '§f███§c█§6█§c█§f███'
+  - '§f██§c█§6█§0█§6█§c█§f██'
+  - '§f██§c█§6█§0█§6█§c█§f██'
+  - '§f█§c█§6██§0█§6██§c█§f█'
+  - '§f█§c█§6█████§c█§f█'
+  - '§c█§6███§0█§6███§c█'
+  - '§c█████████'
+  - '§cDu er blevet frosset af §f{staff} §4IKKE LOG UD!'
+  - '§cDu har 5 minutter til at komme ind på vores discord.'
+  - 'Discord: https://discord.gg/yueYjRgX'
+  - '§4§lBEMÆRK: §cHvis du logger ud, vil det betegnes som et forsøg på at fjerne dit hack, og vil tilsvarende få samme straf, som hvis du hackede.'
+
+
+
+
+
+
